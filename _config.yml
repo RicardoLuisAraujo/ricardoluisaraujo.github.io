@@ -16,7 +16,7 @@ timezone: Europe/Lisbon
 
 title: Ricardo Luís Araújo # the main title
 
-tagline: O meu canto da Internet de escrita # it will display as the sub-title
+tagline: Falo de coisas # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Um espaço para escrever sobre variados temas que me interessam, mas maioritariamente sobre educação e empreendedorismo.
@@ -28,8 +28,6 @@ url: "https://ricardoluisaraujo.github.io"
 github:
   username: RicardoLuisAraujo # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
